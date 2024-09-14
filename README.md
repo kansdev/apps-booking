@@ -21,7 +21,7 @@ to your `app` folder. The affected files can be copied or merged from
 
 Aplikasi ini masih dalam tahap pengembangan, jika kalian ingin berkontribusi silahkan ikuti langkah berikut
 
-> - Clone projek
+> Clone projek
 
 ```bash
 git clone https://github.com/kansdev/apps-booking.git
