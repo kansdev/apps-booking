@@ -26,3 +26,15 @@ Aplikasi ini masih dalam tahap pengembangan, jika kalian ingin berkontribusi sil
 ```bash
 git clone https://github.com/kansdev/apps-booking.git
 ```
+
+> Tambahkan ke repository lokal
+
+```bash
+git remote add upstream https://github.com/kansdev/apps-booking.git
+```
+
+> Buat branch baru untuk berkontribusi
+
+```bash
+git checkout -b <nama-branch>
+```
