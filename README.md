@@ -38,3 +38,15 @@ git remote add upstream https://github.com/kansdev/apps-booking.git
 ```bash
 git checkout -b <nama-branch>
 ```
+
+> Tambahkn perubahan kode
+
+```bash
+git add .
+```
+
+> Commit code
+
+```bash
+git commit -m "Pesan commit"
+```
